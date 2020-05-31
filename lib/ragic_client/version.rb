@@ -1,0 +1,3 @@
+module RagicClient
+  VERSION = "0.1.3"
+end
