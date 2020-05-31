@@ -6,11 +6,11 @@ RagicClient is a simple tool integrate with [Ragic System](https://ragic.com). I
 
 # Features
 
-**[Create Entry](#create-entry)**
-**[Update Entry](#update-entry)**
-**[Delete Entry](#delete-entry)**
-**[Find Entry By ID](#find-entry-by-id)**
-**[Find Entry By Field ID And Value](#find-entry-by-field-id-and-value)**
+- **[Create Entry](#create-entry)**
+- **[Update Entry](#update-entry)**
+- **[Delete Entry](#delete-entry)**
+- **[Find Entry By ID](#find-entry-by-id)**
+- **[Find Entry By Field ID And Value](#find-entry-by-field-id-and-value)**
 
 ## Installation
 
@@ -91,7 +91,7 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/email_detected. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
+Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/ragic_client. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
 
 ## License
 
